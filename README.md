@@ -1,4 +1,4 @@
-stonecode_reminder
+StoneCode_Reminder
 ==================
 
 This is sample prototype for show casing complete reminder functionality. Prototype have a feature of Location based Reminder.
